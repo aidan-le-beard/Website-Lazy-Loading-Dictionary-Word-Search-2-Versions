@@ -4,7 +4,7 @@
 
 ## You do NOT have permission to use this code for any commercial purposes without speaking to me to work out a deal.
 
-A small website that searches a dictionary with 45,407 words. Results are lazy loaded as they are scrolled through. 2 website versions are offered: one using a Select box, and one using a scrollable div that highlights the matching substring in the returned words.
+A small website that searches a dictionary with 45,407 words. Results are lazy loaded as they are scrolled through. 2 website versions are offered: one using a <select> box, and one using a scrollable <div> that highlights the matching substring in the returned words. The select box and search box resize if the window is shrank, and the Find: box size follows thet size of the select box if it is resized using JavaScript.
 
 ### To execute on Windows:
 
