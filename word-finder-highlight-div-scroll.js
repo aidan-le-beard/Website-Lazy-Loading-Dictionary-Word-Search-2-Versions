@@ -1,7 +1,5 @@
 var dict = new Dictionary(words);
 
-// Your code here
-
 // add an event listener to update the list as the search box is typed in
 // using "input" makes it so we don't have to use "keyup" AND "search". automatically changes as letters are typed
 // keyup didn't change on clicking the "x" in the search box.
