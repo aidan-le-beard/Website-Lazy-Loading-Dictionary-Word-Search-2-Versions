@@ -9,3 +9,9 @@ A small website that searches a dictionary with 45,407 words. Blanks can be sear
 ### To execute on Windows:
 
 Download all files into a folder, and open word-finder-select.html and/or word-finder-highlight-div-scroll.html into a web browser such as Chrome.
+
+### Sample Output:
+
+![image](https://user-images.githubusercontent.com/33675444/205211475-49b8e6af-27de-40b7-9398-fcd9fe5c4071.png)
+
+![image](https://user-images.githubusercontent.com/33675444/205211452-f51bec01-b373-40ef-be4c-7aeeea52b9bd.png)
