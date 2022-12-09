@@ -1,3 +1,4 @@
+// create a dictionary object
 var dict = new Dictionary(words);
 
 // add an event listener to update the list as the search box is typed in

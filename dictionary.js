@@ -10,7 +10,7 @@
  *
  *   dict.search("a") => ["a", "bad", "cat"]
  *
- * @param words the array of words to construct the dictionary with
+ * @param words the array of words to construct the dictionary with, from words-large.json
  * @returns a newly created dictionary
  */
 var Dictionary = function(words) {
@@ -27,7 +27,7 @@ var Dictionary = function(words) {
 		// for hangman searching
 		query = query.replace(/#|_| /g, '.'); 
 		var pattern = new RegExp(query, "i"); // "i" means case insensitive
-		return $.grep(words, function(w) {
+		return words.filter(function(w) {
 			return pattern.test(w);
 		});
 	};
