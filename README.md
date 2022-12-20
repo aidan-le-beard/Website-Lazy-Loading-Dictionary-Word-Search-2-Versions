@@ -4,7 +4,7 @@
 
 ## You do NOT have permission to use this code for any commercial purposes without speaking to me to work out a deal.
 
-A small website that searches a dictionary with 45,407 words. Wildcard characcters can be searched using "\_". Ex: Air\_l\_ne will return "airplane." Results are lazy loaded as they are scrolled through. 2 website versions are offered: one using a \<select\> box, and one using a scrollable \<div\> that highlights the matching substring in the returned words. The select box and search box resize if the window is shrank, and the Find: box size follows the size of the select box if it is resized, either through resizing the window or using the resizable tool in the bottom right. Try it here: https://studentweb.kennesaw.edu/~alebeard/GUI-Assignment_1/word-finder-select.html? and here: https://studentweb.kennesaw.edu/~alebeard/GUI-Assignment_1/word-finder-highlight-div-scroll.html?
+A small website that searches a dictionary with 45,407 words. Wildcard characters can be searched using "\_". Ex: Air\_l\_ne will return "airplane." Results are lazy loaded as they are scrolled through. 2 website versions are offered: one using a \<select\> box, and one using a scrollable \<div\> that highlights the matching substring in the returned words. The select box and search box resize if the window is shrank, and the Find: box size follows the size of the select box if it is resized, either through resizing the window or using the resizable tool in the bottom right. Try it here: https://studentweb.kennesaw.edu/~alebeard/GUI-Assignment_1/word-finder-select.html? and here: https://studentweb.kennesaw.edu/~alebeard/GUI-Assignment_1/word-finder-highlight-div-scroll.html?
   
 ### To execute on Windows:
 
